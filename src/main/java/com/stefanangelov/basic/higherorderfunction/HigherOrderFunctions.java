@@ -1,4 +1,4 @@
-package com.stefanangelov.higherorderfunction;
+package com.stefanangelov.basic.higherorderfunction;
 
 public class HigherOrderFunctions {
 

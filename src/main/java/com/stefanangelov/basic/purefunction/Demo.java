@@ -1,4 +1,4 @@
-package com.stefanangelov.purefunction;
+package com.stefanangelov.basic.purefunction;
 
 public class Demo {
 

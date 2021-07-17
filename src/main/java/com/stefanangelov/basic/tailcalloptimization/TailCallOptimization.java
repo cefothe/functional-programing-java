@@ -1,4 +1,4 @@
-package com.stefanangelov.tailcalloptimization;
+package com.stefanangelov.basic.tailcalloptimization;
 
 public class TailCallOptimization {
 	public static void main(String[] args) {

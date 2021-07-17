@@ -1,4 +1,4 @@
-package com.stefanangelov.functionchaining;
+package com.stefanangelov.basic.functionchaining;
 
 import java.util.Objects;
 

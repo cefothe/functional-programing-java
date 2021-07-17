@@ -1,4 +1,4 @@
-package com.stefanangelov.composition;
+package com.stefanangelov.basic.composition;
 
 public class Square {
 	private int area;

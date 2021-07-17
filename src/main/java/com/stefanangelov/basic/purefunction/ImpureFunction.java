@@ -1,4 +1,4 @@
-package com.stefanangelov.purefunction;
+package com.stefanangelov.basic.purefunction;
 
 /**
  * Not a pure function

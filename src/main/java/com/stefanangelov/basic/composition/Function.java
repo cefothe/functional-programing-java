@@ -1,4 +1,4 @@
-package com.stefanangelov.composition;
+package com.stefanangelov.basic.composition;
 
 @FunctionalInterface
 public interface Function<T,R> {

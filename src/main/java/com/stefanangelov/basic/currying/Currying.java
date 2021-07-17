@@ -1,6 +1,6 @@
-package com.stefanangelov.currying;
+package com.stefanangelov.basic.currying;
 
-import com.stefanangelov.composition.Function;
+import com.stefanangelov.basic.composition.Function;
 
 public class Currying {
 	public static void main(String[] args) {

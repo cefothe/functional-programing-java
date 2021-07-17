@@ -1,4 +1,4 @@
-package com.stefanangelov.closure;
+package com.stefanangelov.basic.closure;
 
 public class JavaClosure {
 

@@ -1,4 +1,4 @@
-package com.stefanangelov.referentialtrasparenry;
+package com.stefanangelov.basic.referentialtrasparenry;
 
 public class ReferentialTransparency {
 

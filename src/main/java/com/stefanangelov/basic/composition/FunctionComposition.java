@@ -1,4 +1,4 @@
-package com.stefanangelov.composition;
+package com.stefanangelov.basic.composition;
 
 public class FunctionComposition {
 	public static void main(String[] args) {
